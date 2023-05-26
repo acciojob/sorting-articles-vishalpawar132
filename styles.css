@@ -1,1 +1,20 @@
 /*  your css code here. If applicable */
+body{
+	
+	test-align: center;
+	background-image: url("https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" );
+}
+.list{
+	test-align: center;
+	
+}
+
+ul li{
+	
+	padding: 5px;
+	list-style: square;
+	background-color: white;
+	width: 40%px;
+	background-color: white;
+}
+
